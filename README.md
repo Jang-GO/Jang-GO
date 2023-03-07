@@ -1,5 +1,5 @@
 <div align="center";>
-	<p>
+	<p font-size="28px">
 		<b>📖I'm Studying📖</b>
 	</p>
 	<img src="https://img.shields.io/badge/Java-F80000?style=flat&logo=Java&logoColor=white" />
