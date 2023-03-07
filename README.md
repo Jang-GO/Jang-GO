@@ -1,4 +1,4 @@
-<h1>📖I'm Studying📖</h1>
+<p style="text-align:center">📖I'm Studying📖</p>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-F80000?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
