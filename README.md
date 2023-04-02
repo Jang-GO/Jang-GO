@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Jang-GO's%20Github&fontSize=80)
 <div align="center";>
+	![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Jang-GO's%20Github&fontSize=80)
 	<h2>
 		<b>📖I'm Studying📖</b>
 	</h2>
