@@ -7,7 +7,7 @@
   
  <br/>
   
-####  :clipboard:  I'm Studying
+####  :clipboard:  Go your own way
   
  <br/>
   
